@@ -1,0 +1,17 @@
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.EF\bin\Debug\net8.0\GameZone.EF.deps.json
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.EF\bin\Debug\net8.0\GameZone.EF.runtimeconfig.json
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.EF\bin\Debug\net8.0\GameZone.EF.dll
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.EF\bin\Debug\net8.0\GameZone.EF.pdb
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.EF\bin\Debug\net8.0\GameZone.Enities.dll
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.EF\bin\Debug\net8.0\GameZone.Enities.pdb
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.EF\obj\Debug\net8.0\GameZone.EF.csproj.AssemblyReference.cache
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.EF\obj\Debug\net8.0\GameZone.EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.EF\obj\Debug\net8.0\GameZone.EF.AssemblyInfoInputs.cache
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.EF\obj\Debug\net8.0\GameZone.EF.AssemblyInfo.cs
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.EF\obj\Debug\net8.0\GameZone.EF.csproj.CoreCompileInputs.cache
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.EF\obj\Debug\net8.0\GameZone.332C30F3.Up2Date
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.EF\obj\Debug\net8.0\GameZone.EF.dll
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.EF\obj\Debug\net8.0\refint\GameZone.EF.dll
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.EF\obj\Debug\net8.0\GameZone.EF.pdb
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.EF\obj\Debug\net8.0\GameZone.EF.genruntimeconfig.cache
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.EF\obj\Debug\net8.0\ref\GameZone.EF.dll

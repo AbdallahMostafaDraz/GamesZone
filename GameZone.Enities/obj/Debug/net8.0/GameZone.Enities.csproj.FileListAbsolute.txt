@@ -1,0 +1,11 @@
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.Enities\bin\Debug\net8.0\GameZone.Enities.deps.json
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.Enities\bin\Debug\net8.0\GameZone.Enities.dll
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.Enities\bin\Debug\net8.0\GameZone.Enities.pdb
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.Enities\obj\Debug\net8.0\GameZone.Enities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.Enities\obj\Debug\net8.0\GameZone.Enities.AssemblyInfoInputs.cache
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.Enities\obj\Debug\net8.0\GameZone.Enities.AssemblyInfo.cs
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.Enities\obj\Debug\net8.0\GameZone.Enities.csproj.CoreCompileInputs.cache
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.Enities\obj\Debug\net8.0\GameZone.Enities.dll
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.Enities\obj\Debug\net8.0\refint\GameZone.Enities.dll
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.Enities\obj\Debug\net8.0\GameZone.Enities.pdb
+E:\Back-end\ASP.NET Projects\GameZone\GameZone.Enities\obj\Debug\net8.0\ref\GameZone.Enities.dll

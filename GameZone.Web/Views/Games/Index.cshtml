@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Game>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<p>
+    <a asp-action="Create" class="btn btn-secondary btn-lg mt-3">
+        <i class="bi bi-plus-circle-dotted"></i>
+        Add New Game
+    </a> 
+</p>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-warning mt-5">
+        <h4 class="alert-heading">No Games!</h4>
+        <p class="mb-0">No Games Were Added Yet.<a href="#" class="alert-link">vel scelerisque nisl consectetur et</a>.</p>
+    </div>
+}
+else
+{
+    <div class="mt-4">
+        <table class="table table-border border-primary">
+            <tbody>
+                @foreach (var game in Model)
+                {
+                    <tr class="border-1 border-success">
+                        <td>
+                            <div class="d-flex">
+                                <div class="pe-4">
+                                    <img src=@($"{ConstantsFile.ImagesPath}/{game.Cover}") alt="@game.Name" width="80"; height="80" />
+                                </div>
+                                <div class="d-flex flex-column jusitfy-content-center">
+                                    <h4 class="text-light">@game.Name</h4>
+                                    <h5>@game.Category.Name</h5>
+                                </div>
+                            </div>
+                        </td>
+                        <td class="align-middle">
+                            <div class="d-flex justify-content-end">
+
+                                <a class="btn btn-info rounded rounded-3 me-2" asp-action="Edit" asp-route-id="@game.Id">
+                                    <i class="bi bi-pencil-fill"></i>
+                                </a>
+                                <a class="btn btn-danger rounded rounded-3 me-2 js-delete" data-id="@game.Id" >
+                                    <i class="bi bi-trash3"></i>
+                                </a>
+
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody> 
+        </table>
+    
+    </div>
+}
+
+@section Scripts {
+    <script src="~/js/game-index-delete.js" asp-append-version="true"></script>
+    
+}
